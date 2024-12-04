@@ -19,12 +19,17 @@ pip install ipywidgets
 ```
 
 ## Datasets
+
+### Normal datasets
 **Normal DC diff** data for deep learning training can be loaded from the following the hugging face link. 
 
-https://huggingface.co/datasets/Jake5/wmxdata
+https://huggingface.co/datasets/Jake5/wmx_normal_data
 
 <img src="DC_Diff_normal.png" width="1500">
 
-**Anomaly DC diff** data can be loaded from here. 
+### Abnormal datasets
+**Anomaly DC diff** data can be found as well from below link.
 
-https://huggingface.co/datasets/Jake5/wmxdata
+https://huggingface.co/datasets/Jake5/wmx_abnormal_data
+
+<img src="DC_Diff_abnormal.png" width="1500">
